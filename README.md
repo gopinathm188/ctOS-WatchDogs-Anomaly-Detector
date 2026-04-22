@@ -12,12 +12,7 @@
 
 ### Anomaly Detected — Knife CRITICAL Alert
 <p align="center">
-  <img src="docs/Anomaly_detected_1.png" alt="ctOS Knife Anomaly" width="800"/>
-</p>
-
-### Anomaly Detected — Scissors CRITICAL Alert
-<p align="center">
-  <img src="docs/Anomaly_detected_2.png" alt="ctOS Scissors Anomaly" width="800"/>
+  <img src="docs/Anomaly_detected_withUI_1.png" alt="ctOS Knife Anomaly" width="800"/>
 </p>
 
 ---
